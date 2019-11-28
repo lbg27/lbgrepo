@@ -1,0 +1,16 @@
+C:\Users\hpuser\source\repos\RobotSimulator\ToyRobot\obj\Debug\netcoreapp2.1\ToyRobot.csproj.CoreCompileInputs.cache
+C:\Users\hpuser\source\repos\RobotSimulator\ToyRobot\obj\Debug\netcoreapp2.1\ToyRobot.AssemblyInfoInputs.cache
+C:\Users\hpuser\source\repos\RobotSimulator\ToyRobot\obj\Debug\netcoreapp2.1\ToyRobot.AssemblyInfo.cs
+C:\Users\hpuser\source\repos\RobotSimulator\ToyRobot\bin\Debug\netcoreapp2.1\ToyRobot.deps.json
+C:\Users\hpuser\source\repos\RobotSimulator\ToyRobot\bin\Debug\netcoreapp2.1\ToyRobot.dll
+C:\Users\hpuser\source\repos\RobotSimulator\ToyRobot\bin\Debug\netcoreapp2.1\ToyRobot.pdb
+C:\Users\hpuser\source\repos\RobotSimulator\ToyRobot\obj\Debug\netcoreapp2.1\ToyRobot.dll
+C:\Users\hpuser\source\repos\RobotSimulator\ToyRobot\obj\Debug\netcoreapp2.1\ToyRobot.pdb
+C:\lalagyan\rabbitmq_sample\RobotSimulator\ToyRobot\obj\Debug\netcoreapp2.1\ToyRobot.csprojAssemblyReference.cache
+C:\lalagyan\rabbitmq_sample\RobotSimulator\ToyRobot\obj\Debug\netcoreapp2.1\ToyRobot.AssemblyInfoInputs.cache
+C:\lalagyan\rabbitmq_sample\RobotSimulator\ToyRobot\obj\Debug\netcoreapp2.1\ToyRobot.AssemblyInfo.cs
+C:\lalagyan\rabbitmq_sample\RobotSimulator\ToyRobot\obj\Debug\netcoreapp2.1\ToyRobot.dll
+C:\lalagyan\rabbitmq_sample\RobotSimulator\ToyRobot\obj\Debug\netcoreapp2.1\ToyRobot.pdb
+C:\lalagyan\rabbitmq_sample\RobotSimulator\ToyRobot\bin\Debug\netcoreapp2.1\ToyRobot.deps.json
+C:\lalagyan\rabbitmq_sample\RobotSimulator\ToyRobot\bin\Debug\netcoreapp2.1\ToyRobot.dll
+C:\lalagyan\rabbitmq_sample\RobotSimulator\ToyRobot\bin\Debug\netcoreapp2.1\ToyRobot.pdb

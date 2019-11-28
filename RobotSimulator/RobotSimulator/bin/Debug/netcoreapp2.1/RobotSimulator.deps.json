@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "RobotSimulator/1.0.0": {
+        "dependencies": {
+          "ToyRobot": "1.0.0"
+        },
+        "runtime": {
+          "RobotSimulator.dll": {}
+        }
+      },
+      "ToyRobot/1.0.0": {
+        "runtime": {
+          "ToyRobot.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RobotSimulator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ToyRobot/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
